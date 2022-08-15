@@ -15,4 +15,5 @@ setup(
     keywords='Pacote',
     description='Exemplo de pacote PyPI',
     packages=['TESTE'],
-    install_requires=['numpy'])
+    install_requires=['numpy'],
+)
